@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Meet-landing-page/static/css/main.a69df90c.css",
+    "main.js": "/Meet-landing-page/static/js/main.3caf58dc.js",
+    "static/js/787.eadadfd8.chunk.js": "/Meet-landing-page/static/js/787.eadadfd8.chunk.js",
+    "static/media/image-hero.png": "/Meet-landing-page/static/media/image-hero.3dbd9bf0eff94c50b694.png",
+    "static/media/image-hero-right.png": "/Meet-landing-page/static/media/image-hero-right.95e30a4c336196db688f.png",
+    "static/media/image-hero-left.png": "/Meet-landing-page/static/media/image-hero-left.40626e782bf59ca427b5.png",
+    "static/media/image-footer.jpg": "/Meet-landing-page/static/media/image-footer.79d350b908bda6502215.jpg",
+    "static/media/image-men-in-meeting.jpg": "/Meet-landing-page/static/media/image-men-in-meeting.19b0c4382d0d2c77de83.jpg",
+    "static/media/image-man-texting.jpg": "/Meet-landing-page/static/media/image-man-texting.ce697f53d9703cae1980.jpg",
+    "static/media/image-woman-in-videocall.jpg": "/Meet-landing-page/static/media/image-woman-in-videocall.346ccf01daac434d9814.jpg",
+    "static/media/image-women-videochatting.jpg": "/Meet-landing-page/static/media/image-women-videochatting.bd9bcb9739c1fb0ad169.jpg",
+    "static/media/RedHatDisplay-Medium.woff": "/Meet-landing-page/static/media/RedHatDisplay-Medium.a725f21659bc2f166012.woff",
+    "static/media/RedHatDisplay-Black.woff": "/Meet-landing-page/static/media/RedHatDisplay-Black.ab81925ab87ff4fdc01a.woff",
+    "static/media/RedHatDisplay-Medium.woff2": "/Meet-landing-page/static/media/RedHatDisplay-Medium.65e331de0ffe032c3217.woff2",
+    "static/media/RedHatDisplay-Black.woff2": "/Meet-landing-page/static/media/RedHatDisplay-Black.ea85ce2539aad7a70e3d.woff2",
+    "static/media/logo.svg": "/Meet-landing-page/static/media/logo.8282cfa9c8badf295f20b64be4fe1310.svg",
+    "index.html": "/Meet-landing-page/index.html",
+    "main.a69df90c.css.map": "/Meet-landing-page/static/css/main.a69df90c.css.map",
+    "main.3caf58dc.js.map": "/Meet-landing-page/static/js/main.3caf58dc.js.map",
+    "787.eadadfd8.chunk.js.map": "/Meet-landing-page/static/js/787.eadadfd8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a69df90c.css",
+    "static/js/main.3caf58dc.js"
+  ]
+}
