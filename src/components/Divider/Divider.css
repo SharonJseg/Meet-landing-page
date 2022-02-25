@@ -1,0 +1,20 @@
+.divider {
+  z-index: 5;
+}
+
+.divider__line {
+  border-left: 1px solid var(--clr-gray);
+  margin-left: 27px;
+  height: 84px;
+  opacity: 0.25;
+}
+
+.divider__number {
+  background-color: var(--clr-background);
+  font-weight: 900;
+  padding: 15px;
+  width: 54px;
+  height: 54px;
+  border: 1px solid #87879d40;
+  border-radius: 50%;
+}

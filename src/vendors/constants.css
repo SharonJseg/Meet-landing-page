@@ -1,0 +1,21 @@
+:root {
+  /* Font families */
+  --ff-redhat: 'Red Hat Display', sans-serif;
+
+  /* Font Sizes */
+  --fs-base: 1.125rem;
+  --fs-header: 4rem;
+  --fs-subheader: 2.5rem;
+  --fs-overline: 1rem;
+
+  /* Colors */
+  --clr-background: #fafafa;
+  --clr-dark-blue: #28283d;
+  --clr-gray: #87879d;
+  --clr-purple: #855fb1;
+  --clr-light-purple: #b18bdd;
+  --clr-pink: #d9b8ff;
+  --clr-cyan: #4d96a9;
+  --clr-light-cyan: #71c0d4;
+  --clr-light-blue: #8fe3f9;
+}
