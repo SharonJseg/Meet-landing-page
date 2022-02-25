@@ -10,3 +10,22 @@
 .gallery__image {
   border-radius: 8px;
 }
+
+@media screen and (max-width: 768px) {
+  .gallery {
+    margin: 67px auto 48px;
+    max-width: 689px;
+    grid-template-columns: repeat(auto-fit, minmax(164px, 1fr));
+    gap: 11px;
+  }
+}
+
+@media screen and (max-width: 375px) {
+  .gallery {
+    margin: 64px auto 64px;
+    max-width: 327px;
+    grid-template-columns: repeat(auto-fit, minmax(151px, 1fr));
+    column-gap: 25px;
+    row-gap: 24px;
+  }
+}

@@ -1,11 +1,19 @@
 import './Hero.css';
 import leftHeroImg from '../../images/desktop/image-hero-left.png';
 import rightHeroImg from '../../images/desktop/image-hero-right.png';
+import mobileHeroImg from '../../images/tablet/image-hero.png';
 import Divider from '../Divider/Divider';
 
 const Hero = () => {
   return (
     <section className='hero'>
+      <picture>
+        <img
+          src={mobileHeroImg}
+          alt='people smiling'
+          className='hero__image-mobile'
+        />
+      </picture>
       <picture>
         <img
           src={leftHeroImg}
